@@ -1,18 +1,18 @@
-CogniQuotient 🗒️ 💻
+
 Logo
 
 
-Website Link: https://cogniquotient.azurewebsites.net
-Demo Video Link: https://youtu.be/cCXkh27J9NY
-Presentation Link: https://docs.google.com/presentation/d/1FkdkA2jJdM8R3Qi1WFRJTxow8uJOibIo/edit?usp=sharing&ouid=100025622565396249863&rtpof=true&sd=true
+Website Link: 
+Demo Video Link: 
+Presentation Link: 
 Details :
-Name : Harshavardhan Bajoria
+Name : Nary Byun
 
-Country of Residence : India
+Country of Residence : Austraila
 
-College Name : Amity University Kolkata
+College Name : RMIT
 
-Graduation Year: 2024
+Graduation Year: 2026
 
 Experience Level : Student
 
@@ -71,6 +71,9 @@ VideoLink uses Azure Bing Search API
 videolink
 Legit Lens uses Azure Blob Storage and Azure ML Studio
 legitlens
+
+
+
 Demo Video Link 🎥 : https://youtu.be/cCXkh27J9NY
 Website Link 🌐 : https://cogniquotient.azurewebsites.net
 Presentation Link: https://docs.google.com/presentation/d/1FkdkA2jJdM8R3Qi1WFRJTxow8uJOibIo/edit?usp=sharing&ouid=100025622565396249863&rtpof=true&sd=true
@@ -94,4 +97,4 @@ AI-Powered Analytics: Implement advanced analytics to track learning progress, i
 Multimedia scrutiny: Implement multimedia scrutiny to display only relevant content that will be used for educational purposes with proper licensing.
 In embracing these future directions, "CogniQuotient" evolves into an indispensable tool that solves current challenges and reshapes the educational and information landscape, driving innovation and enriching global knowledge sharing.
 
-Build with ❤️ by Harshavardhan Bajoria
+Build by Nary Byun
