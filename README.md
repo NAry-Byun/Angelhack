@@ -59,10 +59,11 @@ Feedback Loop: Providing continuous updates and insights for ongoing improvement
 
 
 # 🎯Future Scopes
+
 Currently, Hey Atheni is in the prototype phase. Future developments include:
 
 More Advanced NLP Models: To improve accuracy and depth of text analysis.
-Mobile and Browser Accessibility: Making Hey Atheni accessible on mobile devices and web browsers.
+Teams App and Chat Integration: Integrating Hey Atheni with Teams app on company accounts to automatically update data and provide ease of use.
 Enhanced Visualization Tools: Adding more sophisticated visualization tools to provide deeper insights.
 AI-Powered Recommendations: Offering personalized recommendations based on the analysis to improve sustainability practices.
 
