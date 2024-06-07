@@ -49,6 +49,7 @@ Real-World Application: Bridges the gap between knowledge acquisition and real-w
 Behavioral Change: Catalyzes behavioral change by reinforcing positive habits and alerting users to potential discrepancies, encouraging responsible corporate behavior.
 
 #  🎮Methodology
+<img src="https://github.com/NAry-Byun/Angelhack/blob/master/archtecture.png?raw=true"></img></p>
 
 Data Collection: Gathering data from various public company communications.
 Data Processing: Using Azure OpenAI for text extraction and NLP analysis.
