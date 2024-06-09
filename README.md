@@ -30,14 +30,6 @@ The following tech stacks have been used to create the application:
 - **Data Integration APIs:** To connect and integrate various data sources.
 - **Power BI:** For data analytics and visualisation.
 
-# ⚡ Social Impact / Novelty
-Hey Atheni leverages advanced AI technologies to address the challenges in sustainability reporting analysis. Its impact includes:
-
-- **Enhanced Learning Experience:** Revolutionises the process of analysing sustainability reports by offering an interactive and engaging solution.
-- **Accessible Education:** Democratizes access to vital knowledge about sustainability reporting, promoting transparency and accountability.
-- **Real-World Application:** Bridges the gap between knowledge acquisition and real-world application, providing practical insights into corporate sustainability practices.
-- **Behavioural Change:** Catalyses behavioural change by reinforcing positive habits and alerting users to potential discrepancies, encouraging responsible corporate behaviour.
-
 # 🎮 Methodology
 <p align="center"><img src="https://github.com/NAry-Byun/Angelhack/blob/master/archtecture.png?raw=true"></img></p>
 
