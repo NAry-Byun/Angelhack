@@ -3,7 +3,8 @@
 <p align="center">
 <img src="https://github.com/NAry-Byun/Angelhack/blob/master/logo.png?raw=true" width="400px" height="400px" alt="logo"></img>
 </p>
-<p align="center">Presentation Link:</p>
+<p align="center">Presentation Video Link: https://youtu.be/lp4fFDPWe9A </p>
+
 
 # 📝 Theme
 The importance of analysing sustainability reporting for companies is increasingly recognised. This highlights the need for innovative methods to extract, compare, and present sustainability objectives and their reported progress through advanced AI technologies.
