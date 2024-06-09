@@ -51,7 +51,7 @@ Hey Atheni leverages advanced AI technologies to address the challenges in susta
 Currently, Hey Atheni is in the prototype phase. Future developments include:
 
 - **More Advanced NLP Models:** To improve accuracy and depth of text analysis.
-- **Teams App and Chat Integration:** Using Pwer Apps tools to intergrate with the Teams app on company accounts to automatically update data and provide ease of use.
+- **Teams App and Chat Integration:** Using Power Apps tools to intergrate with the Teams app on company accounts to automatically update data and provide ease of use.
 - **Enhanced Visualisation Tools:** Adding more sophisticated visualisation tools to provide deeper insights.
 - **AI-Powered Recommendations:** Offering personalised recommendations based on the analysis to improve sustainability practices.
 
